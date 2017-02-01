@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: teht2, Configuration: Debug Any CPU ------
+1>  teht2 -> C:\Users\Katri\Source\Repos\Demo03\teht2\bin\Debug\teht2.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
